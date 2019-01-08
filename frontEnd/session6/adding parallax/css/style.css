@@ -1,0 +1,27 @@
+div{
+  height:500px;
+   margin: 0;
+   padding: 0;
+}
+.blue{
+  background-color: skyblue;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+p{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.center{
+  width: 500px;
+  margin:0 auto;
+  padding-top: 250px;
+
+
+}

@@ -1,0 +1,28 @@
+.big{
+  height: 450px;
+  background: linear-gradient(to top left,red,white);
+  width:90%;
+  border: 2px solid black;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: center;
+  margin-left: 5%;
+}
+.nono{
+  height: 450px;
+  background: radial-gradient(white,grey,white);
+  border: 2px solid black;
+  margin: -23px auto;
+  padding: 0;
+  text-align: center;
+  width:90%;
+  margin-left: 5%;
+  border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+input:checked + label{
+  text-decoration: line-through;
+}
+li{
+  list-style-type: none;
+}

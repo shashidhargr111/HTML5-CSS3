@@ -1,0 +1,49 @@
+.navbar-default .navbar-brand{
+	color: black;
+
+
+}
+html{
+	height: 100%;
+}
+body{
+	background:url(../images/01.jpeg) no-repeat fixed;
+	background-size: cover;
+	background-position: center;
+	font-family: Catamatan;
+
+}
+.center{
+	text-align: center;
+	padding-top: 15%;
+}
+h1,p,h2{
+	color: white;
+	padding-top: ;
+}
+#login{
+	min-width: 250px;
+	background-color: rgba(255,255,255,0.9);
+	padding: 14px 14px 0;
+}
+#login .social-buttons{
+	margin:12px 0;
+}
+
+.btn-fb{
+	color: #fff;
+	background-color: #3b599d;
+}
+
+.btn-tw{
+	color: #fff;
+	background-color: #55acee;
+	margin-left: 5px;
+}
+.btn-fb:hover{
+	color: #fff;
+	background-color: #496ebc;
+}
+#fa-fa{
+	margin-left: 1px;
+}

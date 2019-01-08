@@ -1,0 +1,33 @@
+body{
+	background-color: ;
+	font-family: Catamaran;
+}
+.nav-sidebar{
+	margin:80px -20px 20px 20px;
+}
+.nav-sidebar >li >a {
+	padding: 20px 20px;
+}
+.main{
+	margin-top: 50px;
+	background-color: ;
+	padding: 25px;
+}
+
+.placeholders{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.placeholder{
+	margin-bottom: 20px;
+
+}
+.placeholder img {
+	display: inline;
+	border-radius: 50%;
+}
+footer{
+	margin: 0px 110px ;
+	color: blue;
+}

@@ -1,0 +1,28 @@
+/*body{
+  background-image: url(../images/05.jpg);
+
+}
+*/
+body{
+  background: url(../images/01.jpeg)no-repeat center fixed;
+background-size: cover;
+
+
+}
+div{
+
+  background-color: lightgreen;
+
+}
+h1{
+  color:red;
+  text-align: center;
+
+  width: 300px;
+  margin:  200px auto;
+  font-family: 'Sedgwick Ave', cursive;
+  padding:10px;
+
+
+
+}

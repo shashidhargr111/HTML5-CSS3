@@ -1,0 +1,25 @@
+div{
+  background: green;
+  height: 200px;
+}
+#black{
+  background: black;
+  color: white;
+  text-align: center;
+}
+.red{
+  background: red;
+  height: 225px;
+}
+.pink{
+  background: pink;
+  height: 225px;
+}
+.hotred{
+  background: red;
+  height: 225px;
+}
+#blue{
+  background: blue;
+  height: 225px;
+}
