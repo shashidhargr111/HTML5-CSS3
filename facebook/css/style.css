@@ -1,0 +1,126 @@
+/*header port ends here */
+.row{
+	background-color:linear-gradient(to bottom , #FAFAFC, #F0F1F7,#E9ECF3,#E1E4EF,#DEE1ED,#D8DCEA,#D6DBE9,#D4D9E8) ;
+}
+.header{
+	width: 1350px;
+	height: 103px;
+	background:linear-gradient(to bottom , #49649F, #3F5D9A,#3D5B99) ;
+	margin-top:-20px;
+}
+.h1{
+	float: left;
+	
+	color: white;
+	font-family: 'Roboto Slab', serif;
+
+	font-size: 14px;
+	margin: 33px 0 0px 200px;
+}
+.textandbottun{
+	float: right;
+	margin: 33px 168px 0 0;
+
+}
+.margin1{
+	margin-right: 10px;
+}
+
+.textemail{
+	color: white;
+}
+
+.forgotten:hover   {
+	color: white;
+}
+.forgotten:visited   {
+	color: white;
+}
+.forgotten:link   {
+	color: white;
+}
+
+.button{
+	color: white;
+	background:#4C68A1;
+	padding: 2px;
+	border:  1px  black;
+
+}
+.button:hover{
+	background-color: #3D5698
+
+}
+/*header port ends here */
+
+.row{
+	height: 650px;
+	
+}
+
+.leftside{
+	margin: 30px 30px 0 110px;
+	
+}
+.leftside > p{
+	color: #1C395F;
+	font-size: 20px;
+	font-weight: 20px bold;
+	font-family: 'Roboto Slab', serif;
+
+}
+.rightside {
+	margin: 0 0 0 50px;
+	padding: 0;
+	width: 500px;
+	height: 550px;
+
+}
+.martop{
+	margin: 10px 0 0 0 ;	
+
+}
+
+.tr1 > td > input{
+	padding: 8px  ;
+	padding-right: 100px;
+	border-radius: 5px;
+	border-color: #D3D9E5;
+}
+.padding1{
+	padding: 10px;
+}
+.selectoption{
+	margin: 10px 0 10px 0 ;
+	padding: 5px 5px;
+}
+.radio {
+	margin-left: 30px;
+}
+
+.radiobtn{
+	margin: 10px 20px 0 0 ;
+	padding: 5px 10px;
+}
+.radiobtn1{
+	margin: 10px 0 0 40px ;
+	padding: 5px 10px;
+}
+.plast{
+	font-size: 12px;
+	margin-top: -13px;
+}
+.button1{
+	background-color:green;
+	padding: 7px 20px;
+	width: 200px;
+	height: 40px;
+	color: white;
+	border-radius: 1px;
+}
+
+.button1:hover{
+
+	background-color: rgb(102, 159, 81);
+
+}
